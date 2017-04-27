@@ -110,7 +110,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["Eu adoro comida.", "Sou contador.", "E procuro comida."],    /* You can change the home section typing text from
+            strings: ["Confiabilidade.", "Agilidade nos processos", "Qualidade no serviço.",  "Conheça-nos!"],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
             typeSpeed: 50
           });
